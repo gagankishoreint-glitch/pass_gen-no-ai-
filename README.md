@@ -1,4 +1,4 @@
-#pass-generator
+# pass-generator
 
 python based 
 two main algo +one random(python lib)
