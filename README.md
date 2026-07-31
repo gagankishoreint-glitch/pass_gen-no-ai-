@@ -48,4 +48,4 @@ Generates pure random passwords suitable for strict password requirements. Users
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/gagankishoreint-glitch/PassGen.git](https://github.com/gagankishoreint-glitch/PassGen.git)
-   cd pass_gen-no-ai-
+   cd PassGen-
